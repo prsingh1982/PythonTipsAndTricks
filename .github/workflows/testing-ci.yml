@@ -1,4 +1,4 @@
-name: Test Single Python
+name: Test Python
 on: [push]
 jobs:
   build:
